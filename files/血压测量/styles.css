@@ -1,0 +1,138 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:1330px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u1069_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1280px;
+  height:800px;
+}
+#u1069 {
+  border-width:0px;
+  position:absolute;
+  left:50px;
+  top:50px;
+  width:1280px;
+  height:800px;
+}
+#u1069_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u1070_img {
+  border-width:0px;
+  position:absolute;
+  left:-4px;
+  top:-4px;
+  width:40px;
+  height:50px;
+}
+#u1070 {
+  border-width:0px;
+  position:absolute;
+  left:485px;
+  top:181px;
+  width:30px;
+  height:40px;
+}
+#u1070_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u1070_ann {
+  border-width:0px;
+  position:absolute;
+  left:508px;
+  top:177px;
+  width:1px;
+  height:1px;
+}
+#u1071_img {
+  border-width:0px;
+  position:absolute;
+  left:-4px;
+  top:-4px;
+  width:40px;
+  height:50px;
+}
+#u1071 {
+  border-width:0px;
+  position:absolute;
+  left:821px;
+  top:181px;
+  width:30px;
+  height:40px;
+}
+#u1071_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u1071_ann {
+  border-width:0px;
+  position:absolute;
+  left:844px;
+  top:177px;
+  width:1px;
+  height:1px;
+}
+#u1072_img {
+  border-width:0px;
+  position:absolute;
+  left:-4px;
+  top:-4px;
+  width:40px;
+  height:50px;
+}
+#u1072 {
+  border-width:0px;
+  position:absolute;
+  left:1147px;
+  top:181px;
+  width:30px;
+  height:40px;
+}
+#u1072_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u1072_ann {
+  border-width:0px;
+  position:absolute;
+  left:1170px;
+  top:177px;
+  width:1px;
+  height:1px;
+}
